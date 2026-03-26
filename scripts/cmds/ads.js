@@ -12,7 +12,7 @@ module.exports = {
                 name: "ads",
                 aliases: ["ad"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "ADIL",
                 countDown: 10,
                 role: 0,
                 description: {
@@ -38,12 +38,12 @@ module.exports = {
                 bn: {
                         noTarget: "× বেবি, কাউকে মেনশন দাও, রিপ্লাই করো অথবা UID দাও! 📺",
                         success: "Effect ad successful 📺",
-                        error: "× ইফেক্ট তৈরি করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× ইফেক্ট তৈরি করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact NA RU TO ।"
                 },
                 en: {
                         noTarget: "× Baby, mention, reply, or provide UID of the target! 📺",
                         success: "Effect ad successful 📺",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact NA RU TO  for help."
                 },
                 vi: {
                         noTarget: "× Cưng ơi, hãy gắn thẻ, phản hồi hoặc cung cấp UID mục tiêu! 📺",
