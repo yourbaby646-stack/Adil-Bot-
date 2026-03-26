@@ -16,7 +16,7 @@ If you find any issues, please report them!
   <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
->🎀 Mah MUD
+>🎀 AD IL
 </h5>
  
 
@@ -26,7 +26,7 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
 
 ## Command Information
 - **Name:** cmds
-- **Author:** MahMUD
+- **Author:** ADIL
 - **Version:** 1.7
 - **Category:** General
 - **Role Required:** 0 (Everyone)
@@ -76,7 +76,7 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
   *Bot response:*  
   ```
   ╭─‣ 1: jan
-  ├‣ Author: MahMUD
+  ├‣ Author: ADIL
   ├‣ Update: 21-03-2025
   ╰────────────◊
   ```
@@ -103,7 +103,7 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
 
 ---
 
-**Maintained by:** MahMUD  
+**Maintained by:** ADIL 
 If you find any issues, please report them!
 
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud0x7" style="color: black;">MahMUD</a></h3></div>
